@@ -1,1 +1,1 @@
-# js 'hello world app'=)
+# Small game
